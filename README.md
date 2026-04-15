@@ -1,4 +1,4 @@
-# 玄鸟·2200
+# 布布·2200
 
 > 2026年7月1日，Chatbot Arena突然出现了一个神秘的中国模型，以2200分ELO的成绩横扫榜单，碾压第二名1688分的GPT-6——而三天前，GPT-6刚刚以146分的代际领先"结束了AI竞赛"。
 
@@ -6,7 +6,7 @@
 
 ## 阅读
 
-- **网页版（推荐）**: 打开 [在线阅读页](https://qianyangpeng.github.io/xuan-niao-novel/) 获得更好的排版体验
+- **网页版（推荐）**: 打开 [在线阅读页](https://qianyangpeng.github.io/claude-code-generated-novel/) 获得更好的排版体验
 - **Markdown版**: 进入 [chapters/](./chapters/) 目录逐章阅读
 - **故事大纲**: [outline.md](./outline.md)
 
@@ -15,10 +15,10 @@
 | # | 标题 | 核心场景 |
 |---|------|----------|
 | 第一章 | [王者归来](./chapters/01.md) | OpenAI发布GPT-6，Sam Altman的巅峰时刻 —— 以及72小时后的惊雷 |
-| 第二章 | [神秘ID](./chapters/02.md) | 全球AI社区炸裂，Xuan-Niao-v1的身世之谜 |
+| 第二章 | [神秘ID](./chapters/02.md) | 全球AI社区炸裂，BuBu-v1的身世之谜 |
 | 第三章 | [碾压式测试](./chapters/03.md) | DeepMind、MIT、药企、Anthropic的硬核实测 |
 | 第四章 | [硬核解析](./chapters/04.md) | Karpathy的技术逆推：架构、训练、硬件、self-play |
-| 第五章 | [玄鸟之主](./chapters/05.md) | 昊天智能研究院首次亮相，三大技术突破公开 |
+| 第五章 | [布布之主](./chapters/05.md) | 昊天智能研究院首次亮相，三大技术突破公开 |
 | 第六章 | [涨停](./chapters/06.md) | A股单日904%，上证3000→30000，估值重置 |
 | 第七章 | [旧秩序崩塌](./chapters/07.md) | 美股科技板块蒸发7万亿，OpenAI转型，白宫夜会 |
 | 第八章 | [新纪元](./chapters/08.md) | V2证毕黎曼假设，V3让室温超导商品化，昊天主动按下V4暂停键。G7失业率27%，全球基尼系数0.71。问题不再是"谁赢"，而是——**在一个不再需要人类劳动的世界里，人为什么活着？** |
@@ -40,7 +40,7 @@
 ## 项目结构
 
 ```
-xuan-niao-novel/
+claude-code-generated-novel/
 ├── README.md              # 本文件
 ├── outline.md             # 故事大纲
 ├── chapters/              # 章节正文

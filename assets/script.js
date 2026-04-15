@@ -1,11 +1,11 @@
-/* ========== Xuan-Niao Novel Reader ========== */
+/* ========== BuBu Novel Reader ========== */
 
 const CHAPTERS = [
   { id: 1, num: '01', title: '王者归来', file: './chapters/01.md' },
   { id: 2, num: '02', title: '神秘ID', file: './chapters/02.md' },
   { id: 3, num: '03', title: '碾压式测试', file: './chapters/03.md' },
   { id: 4, num: '04', title: '硬核解析', file: './chapters/04.md' },
-  { id: 5, num: '05', title: '玄鸟之主', file: './chapters/05.md' },
+  { id: 5, num: '05', title: '布布之主', file: './chapters/05.md' },
   { id: 6, num: '06', title: '涨停', file: './chapters/06.md' },
   { id: 7, num: '07', title: '旧秩序崩塌', file: './chapters/07.md' },
   { id: 8, num: '08', title: '新纪元', file: './chapters/08.md' }
