@@ -15,7 +15,8 @@
 ### 第一章 《王者归来》
 **场景**：2026年6月27日，旧金山OpenAI DevDay
 - Sam Altman在舞台上发布GPT-6
-- Chatbot Arena实测：1650分，领先第二名50分
+- Chatbot Arena实测：1688分，领先此前最强的Claude Opus 5(1542)整整146分——Arena开办以来最大单日代际差
+- 但ELO只是表象：真正震惊业界的是SWE-Bench Pro、ARC-AGI-2、FrontierMath Tier 4、METR 30天Agent四项硬基准上的非线性突破
 - OpenAI估值飙升至3.5万亿美元
 - Sam高调接受媒体采访，宣称"竞赛已经结束，中国落后两代"
 - 6月30日深夜，Ilya的一通电话打破一切
